@@ -217,3 +217,7 @@ We provide practical learning experiences in:
 ⭐ If you find this project useful, consider giving this repository a star!
 
 #RajanRobotics #ESP8266 #NodeMCU #ArduinoIDE #Robotics #EmbeddedSystems #UltrasonicSensor #ServoMotor #STEMEducation #RockPaperScissors
+
+## 🔌 Connection Diagram
+
+![Rajan Robotics - Rock Paper Scissors with ESP8266](RR_Rock_Paper_Scissors.png)
